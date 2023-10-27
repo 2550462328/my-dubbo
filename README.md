@@ -1,2 +1,2 @@
 # rpc-framework
-手搓dubbo
+简易的rpc服务通信框架
